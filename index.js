@@ -52,7 +52,7 @@ ScrollReveal().reveal(".experience__stats", {
   delay: 1500,
 });
 
-/* const swiper = new Swiper(".swiper", {
+ const swiper = new Swiper(".swiper", {
   slidesPerView: 2,
   spaceBetween: 20,
   loop: true,
@@ -65,4 +65,4 @@ ScrollReveal().reveal(".subscribe form", {
   ...scrollRevealOption,
   delay: 500,
 });
- */
+ 
